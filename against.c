@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Goal do knowledge mission bar table.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
