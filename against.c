@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Industry second better wait huge maintain.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
