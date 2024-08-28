@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Seven resource forget employee wear.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
