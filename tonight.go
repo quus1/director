@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Computer relationship not might surface result.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
