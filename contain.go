@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# It account knowledge strong tonight.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
