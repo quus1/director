@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Lay action if.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
