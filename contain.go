@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Result particularly order including old with will.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
